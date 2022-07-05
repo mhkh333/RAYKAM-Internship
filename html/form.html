@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+</head>
+<body dir="rtl">
+<form action="http://localhost:8080/vote" method="POST">
+    <label for="name">نام</label><br>
+    <input type="text" id="name" required name="name"><br>
+    <label for="email">ایمیل</label><br>
+    <input type="email" id="email" required name="email">
+    <br>
+    <br>
+    <span>از چه سرویس‌هایی استفاده کردید؟</span>
+    <input type="checkbox" id="sauna" name="services" value="sauna">
+    <label for="sauna">سونا</label>
+    <input type="checkbox" id="jacuzzi" name="services" value="jacuzzi">
+    <label for="jacuzzi">جکوزی</label>
+    <input type="checkbox" id="pool" name="services" value="pool">
+    <label for="pool">استخر</label>
+    <br><br>
+
+    <span>آیا از کیفیت سرویس ارائه شده راضی بودید؟</span>
+    <input type="radio" id="yes" name="satisfaction" value="yes">
+    <label for="yes">بله</label>
+    <input type="radio" id="no" name="satisfaction" value="no">
+    <label for="no">خیر</label><br><br>
+
+    <select name="branch" id="shoebe">
+        <option value="entekhab shoebe" name="branch" selected disabled>entekhab</option>
+        <option value="1" name="branch">1</option>
+        <option value="2" name="branch">2</option>
+        <option value="3" name="branch">3</option>
+        <option value="4" name="branch">4</option>
+    </select>
+    <br> <br>
+
+
+    <label for="score">امتیاز</label><br>
+    <input type="number" min="1" max="5" id="score" name="score" required>
+
+    <br><br>
+    <input type="submit">
+</form>
+</body>
+</html>
