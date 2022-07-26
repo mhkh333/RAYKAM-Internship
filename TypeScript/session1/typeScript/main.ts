@@ -1,5 +1,14 @@
-let data=(firstname:string, lastname:string, ...info:(number|string)[]):void=>{
-    console.log(info);
-};
+class Student{
+    private _first:any;
+    private _last:any;
+    private _email:any;
+    private _age:any;
 
-data("ss",'khora', 'tehran', 'ray', "33", 555);
+    constructor(first: any, last: any, email: any, age: any) {
+        this._first = first;
+        this._last = last;
+        this._email = email;
+        this._age = age;
+    }
+}
+

@@ -1,5 +1,9 @@
 "use strict";
-let data = (firstname, lastname, ...info) => {
-    console.log(info);
-};
-data("ss", 'khora', 'tehran', 'ray', "33", 555);
+class Student {
+    constructor(first, last, email, age) {
+        this._first = first;
+        this._last = last;
+        this._email = email;
+        this._age = age;
+    }
+}
