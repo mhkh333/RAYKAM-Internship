@@ -27,9 +27,13 @@
               "src/assets"
             ],
             "styles": [
+              "C:\\Users\\Asus NP\\Mohammad_Hossein\\Term_7\\new_win_kar\\KarAmuzi\\Angular\\project-name\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "C:\\Users\\Asus NP\\Mohammad_Hossein\\Term_7\\new_win_kar\\KarAmuzi\\Angular\\project-name\\node_modules\\jquery\\dist\\jquery.min.js",
+              "C:\\Users\\Asus NP\\Mohammad_Hossein\\Term_7\\new_win_kar\\KarAmuzi\\Angular\\project-name\\node_modules\\bootstrap\\dist\\js\\bootstrap.min.js"
+            ]
           },
           "configurations": {
             "production": {
