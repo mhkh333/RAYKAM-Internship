@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="539ad487-3f17-431f-85eb-de54df06b72d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-name/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/project-name/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-name/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/project-name/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-name/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/project-name/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-name/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/project-name/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-name/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-name/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-name/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project-name/src/app/app.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658836224935</updated>
       <workItem from="1658836226359" duration="3491000" />
-      <workItem from="1659167994733" duration="5591000" />
+      <workItem from="1659167994733" duration="7527000" />
     </task>
     <servers />
   </component>
