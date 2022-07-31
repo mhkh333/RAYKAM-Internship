@@ -1,4 +1,5 @@
 import {Component, OnInit} from '@angular/core';
+import {user} from "./app-interface";
 
 @Component({
   selector: 'app-root',
@@ -59,7 +60,6 @@ export class AppComponent implements OnInit {
 
   ];
 
-  users: string[] = ['Foad', 'rezvan', 'akbar', 'asghar', 'ali', 'ilia'];
 
   ngOnInit(): void {
     this.styles = {
@@ -102,8 +102,30 @@ export class AppComponent implements OnInit {
     return el.id;
   }
 
-  public onStarClicked(rating: number){
+  public onStarClicked(rating: number) {
     console.log(`The rating ${rating} is clicked!`);
+  }
+
+
+  /////////////////////////////////components decoupling
+  users: user[] = [
+    {
+      email: 'mhkh@gmail.com',
+      password: '123',
+      address: 'aliabad'
+    }, {
+      email: 'mhkh@ail.com',
+      password: '123444',
+      address: 'shiekh baha'
+    }, {
+      email: 'mh@gmail.com',
+      password: '123333',
+      address: 'gisha'
+    },
+  ];
+
+  public onAddUser(){
+
   }
 
 }

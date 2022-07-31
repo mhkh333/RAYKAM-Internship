@@ -5,7 +5,7 @@
 <app-star *ngFor="let rating of ratings" [starRating]=rating (starEventEmitter)="onStarClicked($event)"></app-star>
 
 <ng-template [ngIf]="!isCorrect">
-  <p >*ngIf="true"</p>
+  <p>*ngIf="true"</p>
 </ng-template>
 
 <br>
@@ -18,5 +18,41 @@
   <app-switchcase3 *ngSwitchCase="'c'"></app-switchcase3>
   <app-switchcase4 *ngSwitchCase="'d'"></app-switchcase4>
 </div>
+<div class="container-fluid">
+  <form>
+    <div class="mb-3">
+      <label for="exampleInputEmail1" class="form-label">Email address</label>
+      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+      <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    </div>
+    <div class="mb-3">
+      <label for="exampleInputPassword1" class="form-label">Password</label>
+      <input type="password" class="form-control" id="exampleInputPassword1">
+    </div>
+    <div class="mb-3 form-check">
+      <input type="checkbox" class="form-check-input" id="exampleCheck1">
+      <label class="form-check-label" for="exampleCheck1">Check me out</label>
+    </div>
+    <button (click)="onAddUser()" type="submit" class="btn btn-primary">Add User</button>
+  </form>
+</div>
 
 
+<table class="table table-dark mt-5">
+  <thead>
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">Email</th>
+    <th scope="col">Password</th>
+    <th scope="col">Address</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let user of users; let i=index">
+    <th scope="row">{{ i + 1 }}</th>
+    <td>{{ user.email}}</td>
+    <td>{{ user.password}}</td>
+    <td>{{ user.address}}</td>
+  </tr>
+  </tbody>
+</table>
