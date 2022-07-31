@@ -17,6 +17,9 @@ export class AppComponent implements OnInit {
 
   switchPropert: string = 'c';
 
+  title = 'inputOutputIntro';
+  ratings: number[] = [3, 5, 2.5, 2, 4];
+
   public onUserNameInputChanged(e: Event) {
     this.username = (<HTMLInputElement>e.target).value;
   }
@@ -97,6 +100,10 @@ export class AppComponent implements OnInit {
 
   public trackByFunc(index: number, el: any) {
     return el.id;
+  }
+
+  public onStarClicked(rating: number){
+    console.log(`The rating ${rating} is clicked!`);
   }
 
 }
