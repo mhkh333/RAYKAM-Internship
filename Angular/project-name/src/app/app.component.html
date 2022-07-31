@@ -1,5 +1,18 @@
-<p [class]="classes" >Testing</p>
+<p [ngClass]="classes">Testing</p>
+<p *ngIf="isCorrect; else elseCond">ngIf true</p>
+<ng-template #elseCond>Else condition</ng-template>
 
+<ng-template [ngIf]="!isCorrect">
+  <p >*ngIf="true"</p>
+</ng-template>
 
+<br>
+<button (click)="addUser()">add new user</button>
+<p *ngFor="let user of userObj; let i = index; trackBy: trackByFunc">({{ user.id + ' : ' + user.name }})</p>
 
-
+<div [ngSwitch]="switchPropert">
+  <app-switchcase1 *ngSwitchCase="'a'"></app-switchcase1>
+  <app-switchcase2 *ngSwitchCase="'b'"></app-switchcase2>
+  <app-switchcase3 *ngSwitchCase="'c'"></app-switchcase3>
+  <app-switchcase4 *ngSwitchCase="'d'"></app-switchcase4>
+</div>
