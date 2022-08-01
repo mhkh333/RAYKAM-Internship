@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, ElementRef, OnInit, ViewChild} from '@angular/core';
 import {user} from "./app-interface";
 
 @Component({
@@ -18,7 +18,7 @@ export class AppComponent implements OnInit {
 
   switchPropert: string = 'c';
 
-  title = 'inputOutputIntro';
+  title = 'ngContent';
   ratings: number[] = [3, 5, 2.5, 2, 4];
 
   public onUserNameInputChanged(e: Event) {
@@ -126,6 +126,13 @@ export class AppComponent implements OnInit {
 
   public onAddUser(){
 
+  }
+
+  @ViewChild('par') par: ElementRef | undefined;
+
+  public onContentChanged(){
+    // @ts-ignore
+    this.par.nativeElement.textContent = '1234';
   }
 
 }
