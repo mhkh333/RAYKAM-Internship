@@ -2,10 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="539ad487-3f17-431f-85eb-de54df06b72d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Directives/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/app/app-highlight.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/app/app-interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/app/carousel.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/app/interfaces/app-interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/app/solorful.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/app/user/user.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/app/user/user.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/app/user/user.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/app/user/user.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/assets/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/assets/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/assets/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directives/tsconfig.spec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-name/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-name/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-name/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project-name/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-name/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/project-name/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstAngularApp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/firstAngularApp/src/app/app.module.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +75,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Directives/src/assets" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
-    <property name="ts.external.directory.path" value="C:\Users\Asus NP\Mohammad_Hossein\Term_7\new_win_kar\KarAmuzi\Angular\project-name\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\Asus NP\Mohammad_Hossein\Term_7\new_win_kar\KarAmuzi\Angular\firstAngularApp\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus NP\Mohammad_Hossein\Term_7\new_win_kar\KarAmuzi\Angular\Directives\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus NP\Mohammad_Hossein\Term_7\new_win_kar\KarAmuzi\Angular\Directives\src\assets" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,6 +100,8 @@
       <workItem from="1658836226359" duration="3491000" />
       <workItem from="1659167994733" duration="8485000" />
       <workItem from="1659243505290" duration="13375000" />
+      <workItem from="1659331312965" duration="12206000" />
+      <workItem from="1659415990259" duration="3177000" />
     </task>
     <servers />
   </component>

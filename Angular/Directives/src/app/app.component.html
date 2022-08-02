@@ -1,0 +1,21 @@
+<app-user [user]="user"></app-user>
+
+<select>
+  <ng-container *ngFor="let user of users">
+    <ng-container *ngIf="user.age > 30">
+      <option [ngValue]="user">{{ user.name }} {{ user.age }}</option>
+    </ng-container>
+  </ng-container>
+</select>
+
+
+<input type="text" appSolorful style="width: 50rem; border-width: 0.2rem">
+
+<p [appAppHighlight]="color">Hello World!</p>
+
+<div *appCarousel="let image from images autoplay 'Yes'; let ctrl = controller">
+  <img [src]="image">
+  <button (click)="ctrl.next()">next</button>
+  <button (click)="ctrl.prev()">prec</button>
+
+</div>
