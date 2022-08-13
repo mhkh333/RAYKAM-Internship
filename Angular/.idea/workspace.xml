@@ -2,43 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="539ad487-3f17-431f-85eb-de54df06b72d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/services/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/home/home.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/home/home.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/home/home.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/home/home.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/user/user.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/user/user.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/user/user.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/user/user.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/users/users.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/users/users.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/users/users.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/app/users/users.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/app/admin/admin.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/app/admin/admin.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/app/admin/admin.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/app/users/users.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/app/users/users.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/app/users/users.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-basic/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/admins/admins.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/admins/admins.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/admins/admins.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/clients/clients.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/clients/clients.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/clients/clients.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/interfaces/app-interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/notfound/notfound.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/notfound/notfound.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/notfound/notfound.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/user/user.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/user/user.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/user/user.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/users/users.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/users/users.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/app/users/users.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routingDynamics/tsconfig.spec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +120,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Directives/src/assets" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
-    <property name="ts.external.directory.path" value="C:\Users\Asus NP\Mohammad_Hossein\Term_7\new_win_kar\KarAmuzi\Angular\firstAngularApp\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\Asus NP\Mohammad_Hossein\Term_7\new_win_kar\KarAmuzi\Angular\services\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -101,6 +144,7 @@
       <workItem from="1659243505290" duration="13375000" />
       <workItem from="1659331312965" duration="12206000" />
       <workItem from="1659415990259" duration="7408000" />
+      <workItem from="1659502491879" duration="10250000" />
     </task>
     <servers />
   </component>
