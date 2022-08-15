@@ -2,152 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="539ad487-3f17-431f-85eb-de54df06b72d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/resolveGuard/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/album-details/album-details.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/album-details/album-details.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/album-details/album-details.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/albums.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/albums/albums.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/albums/albums.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/albums/albums.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/home/home.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/home/home.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/home/home.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/interfaces/app-interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/notfound/notfound.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/notfound/notfound.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/notfound/notfound.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/app/resolve.guard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/assets/images/animals.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/assets/images/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/assets/images/dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/assets/images/division.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/assets/images/pf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/assets/images/piper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/assets/images/un.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/assets/images/wish.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/tsconfig.base.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolveGuard/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/auth.guard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/check-ceredentials.guard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/edit-product/edit-product.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/edit-product/edit-product.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/edit-product/edit-product.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/home/home.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/home/home.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/home/home.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/limited-access.guard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/limited-access/limited-access.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/limited-access/limited-access.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/limited-access/limited-access.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/limited-access/limited-access.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/login/login.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/login/login.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/login/login.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/not-authorized/not-authorized.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/not-authorized/not-authorized.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/not-authorized/not-authorized.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/product/product.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/product/product.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/app/product/product.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingGuards/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/edituser/edituser.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/edituser/edituser.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/edituser/edituser.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/home/home.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/home/home.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/home/home.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/interfaces/app-interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/notfound/notfound.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/notfound/notfound.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/notfound/notfound.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/user.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/user/user.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/user/user.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/user/user.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/users/users.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/users/users.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/app/users/users.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routingQueryParams/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/app/models/models.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observable/tsconfig.spec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +67,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Directives/src/assets" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
-    <property name="ts.external.directory.path" value="C:\Users\Asus NP\Mohammad_Hossein\Term_7\new_win_kar\KarAmuzi\Angular\firstAngularApp\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\Asus NP\Mohammad_Hossein\Term_7\new_win_kar\KarAmuzi\Angular\routingGuards\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -212,6 +93,7 @@
       <workItem from="1659415990259" duration="7408000" />
       <workItem from="1659502491879" duration="10250000" />
       <workItem from="1660366180418" duration="10360000" />
+      <workItem from="1660453043888" duration="6164000" />
     </task>
     <servers />
   </component>
