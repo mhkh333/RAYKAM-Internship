@@ -27,8 +27,8 @@ export class AppComponent {
     });
 
     this.http$.subscribe((val: any) =>{
-      this.doneTasks = val.filter((todo) => todo.completed === true);
-      this.undoneTasks = val.filter((todo: { complete: boolean; }) => todo.completed === true);
+      // this.doneTasks = val.filter((todo) => todo.completed === true);
+      // this.undoneTasks = val.filter((todo: { complete: boolean; }) => todo.completed === true);
     });
 
 
