@@ -2,36 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="539ad487-3f17-431f-85eb-de54df06b72d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Observable-OF/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/app/models/app-model.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/app/services/users.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observable-OF/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/app/models/album.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch-Observables/tsconfig.spec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Observable/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Observable/src/app/app.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +67,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Directives/src/assets" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="ts.external.directory.path" value="C:\Users\Asus NP\Mohammad_Hossein\Term_7\new_win_kar\KarAmuzi\Angular\services\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\Asus NP\Mohammad_Hossein\Term_7\new_win_kar\KarAmuzi\Angular\firstAngularApp\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -97,6 +95,7 @@
       <workItem from="1660366180418" duration="10360000" />
       <workItem from="1660453043888" duration="6164000" />
       <workItem from="1660540402860" duration="10398000" />
+      <workItem from="1660626201038" duration="6342000" />
     </task>
     <servers />
   </component>
