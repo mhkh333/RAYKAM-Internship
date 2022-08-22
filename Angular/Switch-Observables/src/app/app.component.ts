@@ -38,9 +38,9 @@ export class AppComponent implements OnInit {
 
     users$ = of(this.users);
 
-    address$ = users$.pipe(
+    // address$ = users$.pipe(
 
-    );
+    // );
 
   }
 

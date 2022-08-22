@@ -2,34 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="539ad487-3f17-431f-85eb-de54df06b72d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/app/models/album.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-Observables/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/app/form-component/form-component.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/app/form-component/form-component.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/app/form-component/form-component.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/app/form-component/form-component.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/assets/ancient-entrance-gate-zhaoxing-china-dong-ethnic-minority-AH6X9J.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form-control/tsconfig.spec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch-Observables/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Switch-Observables/src/app/app.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +80,7 @@
       <recent name="C:\Users\Asus NP\Mohammad_Hossein\Term_7\new_win_kar\KarAmuzi\Angular\Directives\src\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus NP\Mohammad_Hossein\Term_7\new_win_kar\KarAmuzi\Angular\Form-control\src\assets" />
       <recent name="C:\Users\Asus NP\Mohammad_Hossein\Term_7\new_win_kar\KarAmuzi\Angular\Directives\src\assets" />
     </key>
   </component>
@@ -96,6 +102,7 @@
       <workItem from="1660453043888" duration="6164000" />
       <workItem from="1660540402860" duration="10398000" />
       <workItem from="1660626201038" duration="6342000" />
+      <workItem from="1661148242729" duration="6678000" />
     </task>
     <servers />
   </component>
@@ -115,5 +122,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Form-control/src/app/form-component/form-component.component.html</url>
+          <line>5</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
