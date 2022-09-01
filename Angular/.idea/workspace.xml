@@ -2,39 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="539ad487-3f17-431f-85eb-de54df06b72d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Form-control/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/app/form-component/form-component.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/app/form-component/form-component.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/app/form-component/form-component.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/app/form-component/form-component.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/assets/ancient-entrance-gate-zhaoxing-china-dong-ethnic-minority-AH6X9J.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Form-control/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/app/jobportal/jobportal.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/app/jobportal/jobportal.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/app/jobportal/jobportal.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/app/jobportal/jobportal.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/app/shared/customerror.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reactive-Forms/tsconfig.spec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Switch-Observables/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Switch-Observables/src/app/app.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Directives/src/assets" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="ts.external.directory.path" value="C:\Users\Asus NP\Mohammad_Hossein\Term_7\new_win_kar\KarAmuzi\Angular\firstAngularApp\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\Asus NP\Mohammad_Hossein\Term_7\new_win_kar\KarAmuzi\Angular\routingQueryParams\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -103,6 +102,10 @@
       <workItem from="1660540402860" duration="10398000" />
       <workItem from="1660626201038" duration="6342000" />
       <workItem from="1661148242729" duration="6678000" />
+      <workItem from="1661231015780" duration="7540000" />
+      <workItem from="1661250954544" duration="35000" />
+      <workItem from="1661256965958" duration="3329000" />
+      <workItem from="1661325132271" duration="2507000" />
     </task>
     <servers />
   </component>
@@ -129,7 +132,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Form-control/src/app/form-component/form-component.component.html</url>
           <line>5</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
